@@ -26,15 +26,6 @@
     "option4": "patch note",
     "correct": 4
 },{
-    "id": 4,
-    "question": "Who is this guy",
-    "image": "https://i.ibb.co/F6FqskF/diamond.png",
-    "option1": "adam",
-    "option2": "kla",
-    "option3": "ray",
-    "option4": "kale",
-    "correct": 2
-},{
     "id": 5,
     "question": "What is NOT the main goal in free fire",
     "image": "https://i.ibb.co/F6FqskF/diamond.png",
@@ -52,15 +43,6 @@
     "option3": "kla",
     "option4": "hytoa",
     "correct": 2
-},{
-    "id": 7,
-    "question": "Who is this guy",
-    "image": "https://i.ibb.co/F6FqskF/diamond.png",
-    "option1": "haytao",
-    "option2": "sam",
-    "option3": "mean",
-    "option4": "andrew",
-    "correct": 1
 },{
     "id": 8,
     "question": "What does the game say when you are the winner",
