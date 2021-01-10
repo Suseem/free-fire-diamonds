@@ -1,0 +1,55 @@
+[{
+    "id": 2,
+    "question": "Cuánto es 2+2 m?",
+    "image": "https://staticg.sportskeeda.com/editor/2020/09/30bce-16008407751919-800.jpg",
+    "option1": "3",
+    "option2": "1",
+    "option3": "4",
+    "option4": "2",
+    "correct": 3
+},{
+    "id": 1,
+    "question": "Cúanto es 1 x 0?",
+    "image": "https://i.pinimg.com/originals/47/51/b6/4751b64a1f065de048ff973879909c8c.png",
+    "option1": "0",
+    "option2": "1",
+    "option3": "-1",
+    "option4": "2",
+    "correct": 1
+},{
+    "id": 3,
+    "question": "Cuánto es 3+3...",
+    "image": "https://i.pinimg.com/originals/47/51/b6/4751b64a1f065de048ff973879909c8c.png",
+    "option1": "1",
+    "option2": "2",
+    "option3": "3",
+    "option4": "6",
+    "correct": 4
+},{
+    "id": 4,
+    "question": "Cuánto es 1 - 1?....",
+    "image": "https://i.pinimg.com/originals/47/51/b6/4751b64a1f065de048ff973879909c8c.png",
+    "option1": "0",
+    "option2": "1",
+    "option3": "-1",
+    "option4": "2",
+    "correct": 1
+},{
+    "id": 5,
+    "question": "Cuánto es 2 x 5?...",
+    "image": "https://i.pinimg.com/originals/47/51/b6/4751b64a1f065de048ff973879909c8c.png",
+    "option1": "0",
+    "option2": "4",
+    "option3": "104",
+    "option4": "10",
+    "correct": 4
+},{
+    "id": 6,
+    "question": "Cuánto es 0 + 0?",
+    "image": "https://i.pinimg.com/originals/47/51/b6/4751b64a1f065de048ff973879909c8c.png",
+    "option1": "10",
+    "option2": "0",
+    "option3": "14",
+    "option4": "100",
+    "correct": 2
+}]
